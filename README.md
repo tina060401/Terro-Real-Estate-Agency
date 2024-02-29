@@ -14,3 +14,7 @@ With the tax range of 524, the average tax paid is 408.2
 From the skewness of variables, we can say that the dataset is highly skewed.  
 If we take the “Age” into consideration, we observe that maximum age is 100 and mode age is 
 100 too. This indicates that most of the houses are of age 100 and above 
+
+2. Histogram of Avg_Price Variable
+Plot a histogram of the Avg_Price variable.
+Inference: [Share any insights or observations inferred from the histogram]

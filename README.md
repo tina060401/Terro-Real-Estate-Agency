@@ -8,15 +8,23 @@ The task is to analyze the dataset to understand the extent and magnitude of eac
 Project Deliverables:
 
 1] Summary Statistics: 
+
 2] Histogram of Avg_Price Variable
+
 3] Covariance Matrix
+
 4] Correlation Matrix
+
 5] Initial Regression Model
+
 6] Second Regression Model
+
 7] Regression Model with All Variables
+
 8] Regression Model with Significant Variables
 
 Conclusion: 
+
 From this Analysis, we can conclude that all the features play a vital role in 
 estimating the average price of the house excluding crime rate. And a few features have 
 negative coefficients which say that increase rate in those features will decrease the average 

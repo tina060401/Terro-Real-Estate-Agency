@@ -23,14 +23,19 @@ Least number of hiuses range from $37,000 to $41,000 and from $45,000 to $49,000
 indicating that these variables frequently move together. This shows that places with 
 greater crime rates may also have older homes, more industrial land, and a higher 
 proportion of low-income occupants. 
+
 • Strong correlation between TAX and INDUS shows that places with more industrial land 
 typically have higher real estate taxes. 
+
 • DISTANCE has a strong negative covariance with AVG_ROOM, indicating that houses 
 closer to certain amenities tend to have more rooms. 
+
 • LSTAT has a strong negative covariance with AVG_PRICE, suggesting that areas with a 
 higher percentage of lower-income residents tend to have lower housing prices. 
+
 • Strong correlation between AVG_PRICE and TAX indicates that average home prices 
 are generally higher in locations with higher property taxes. 
+
 • NOX has a strong correlation with AGE, INDUS, and DISTANCE, indicating that 
 locations with greater nitrogen oxide emissions are more likely to have older homes, 
 more industrial land, and be farther from certain amenities.   
